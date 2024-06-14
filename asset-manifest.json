@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mathyspaul.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/mathyspaul.github.io/static/js/main.6d069685.js",
-    "static/js/453.5eae116a.chunk.js": "/mathyspaul.github.io/static/js/453.5eae116a.chunk.js",
-    "index.html": "/mathyspaul.github.io/index.html",
-    "main.f855e6bc.css.map": "/mathyspaul.github.io/static/css/main.f855e6bc.css.map",
-    "main.6d069685.js.map": "/mathyspaul.github.io/static/js/main.6d069685.js.map",
-    "453.5eae116a.chunk.js.map": "/mathyspaul.github.io/static/js/453.5eae116a.chunk.js.map"
+    "main.css": "/index.html/static/css/main.f855e6bc.css",
+    "main.js": "/index.html/static/js/main.afda00ae.js",
+    "static/js/453.5eae116a.chunk.js": "/index.html/static/js/453.5eae116a.chunk.js",
+    "index.html": "/index.html/index.html",
+    "main.f855e6bc.css.map": "/index.html/static/css/main.f855e6bc.css.map",
+    "main.afda00ae.js.map": "/index.html/static/js/main.afda00ae.js.map",
+    "453.5eae116a.chunk.js.map": "/index.html/static/js/453.5eae116a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.6d069685.js"
+    "static/js/main.afda00ae.js"
   ]
 }
